@@ -49,12 +49,6 @@
 | [yb2460/harness-anything](https://github.com/yb2460/harness-anything) | 3.1k | MIT | 2026-10 | Agent 控制枢纽：直接驱动 WPS / MS Office / Zotero / Photoshop 本体 |
 | [GongRzhe/Office-PowerPoint-MCP-Server](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server) | 1.9k | MIT | ⏸ 2025-12 | python-pptx 封装的 pptx MCP 先驱，工具粒度细；一年未更新 |
 
-## 内容与设计决策层（本仓库自研）
-
-| 项目 | 说明 |
-|---|---|
-| [skills/ppt-design](./skills/ppt-design/SKILL.md) | **上面所有 skill 解决"怎么写 XML"，这个 skill 解决"写什么、怎么设计"**：故事线（SCQA/金字塔/断言式标题）、场景骨架（周报/路演/评审/答辩）、图表选型、设计系统、中文排版禁则、评审式 QA 清单。与任意 pptx 工具组合使用，附 WCAG 对比度检查脚本 |
-
 ## 通用大集合（不止 PPT）
 
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) — 最大的 Claude Skills 总目录
@@ -77,4 +71,4 @@
 
 ## License
 
-MIT — 见 [LICENSE](LICENSE)。清单快照日期 2026-11-13，由 [@Userrober](https://github.com/Userrober) 维护，调研与核证由自主编码 agent 在人类指导下完成。
+MIT — 见 [LICENSE](LICENSE)。清单快照日期 2026-11-13，由 [@Userrober](https://github.com/Userrober) 维护。
